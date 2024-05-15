@@ -1,7 +1,16 @@
 ### Boas vindas ao meu perfil 🌻❤️💁‍♀️👩‍🏫 👋 
 
-Meu nome é Priscilla Sanchez 
+Meu nome é Priscilla  
+ - Estou melhorando meus conhecimentos no ALURA (https://alurastart.com.br/)  
+ - Estou aprendendo a linguagem JavaScript
+ 
+ - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
+### Você pode entrar em contato comigo. 📧
 
+priscillasanchez@prof.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/nxLN7-JYZdkAAAAC/evil-laugh-fisher.gif)
 <!--
 **pri80/pri80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
